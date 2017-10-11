@@ -8,22 +8,21 @@ permalink: /about/
 
 ### 技术栈
 
-- [x] C
-- [x] Java
-- [x] C++
-  - [x] STL
-  - [ ] QT
-- [ ] 数据结构与算法
-  - [x] List
-  - [x] Tree
-  - [x] Map
-- [ ] HTML&CSS
-  - [ ] bootstrap
-  - [x] Jekyll
-- [x] SQL
-  - [ ] MySQL
-  - [ ] SQLite
-- [x] Git
+- C
+- Java
+- C++
+  - STL
+- 数据结构与算法
+  - List
+  - Tree
+  - Map
+- HTML&CSS
+  - Bootstrap
+  - Jekyll
+- SQL
+  - MySQL
+  - SQLite
+- Git
 
 ### 联系我
 
