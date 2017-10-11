@@ -4,12 +4,27 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+一个没有Google就写不出代码的码农。
 
-### More Information
+### 技术栈
 
-A place to include any other types of information that you'd like to include about yourself.
+- [x] C
+- [x] Java
+- [x] C++
+  - [x] STL
+  - [ ] QT
+- [ ] 数据结构与算法
+  - [x] List
+  - [x] Tree
+  - [x] Map
+- [ ] HTML&CSS
+  - [ ] bootstrap
+  - [x] Jekyll
+- [x] SQL
+  - [ ] MySQL
+  - [ ] SQLite
+- [x] Git
 
-### Contact me
+### 联系我
 
-[email@domain.com](mailto:email@domain.com)
+给我发[邮件](mailto:511158080@qq.com)
