@@ -23,7 +23,9 @@ permalink: /about/
   - MySQL
   - SQLite
 - Git
-
+- HTTP Server
+  - Apache
+  - Nginx
 ### 联系我
 
 给我发[邮件](mailto:511158080@qq.com)
