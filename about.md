@@ -26,6 +26,7 @@ permalink: /about/
 - HTTP Server
   - Apache
   - Nginx
+- TensorFlow
 ### 联系我
 
 给我发[邮件](mailto:511158080@qq.com)
