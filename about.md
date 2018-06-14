@@ -12,21 +12,10 @@ permalink: /about/
 - Java
 - C++
   - STL
-- 数据结构与算法
-  - List
-  - Tree
-  - Map
-- HTML&CSS
-  - Bootstrap
-  - Jekyll
 - SQL
   - MySQL
   - SQLite
 - Git
-- HTTP Server
-  - Apache
-  - Nginx
-- TensorFlow
 ### 联系我
 
 给我发[邮件](mailto:511158080@qq.com)
